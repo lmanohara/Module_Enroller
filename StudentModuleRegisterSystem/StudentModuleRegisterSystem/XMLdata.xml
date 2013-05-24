@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Year>
+  <Module>
+    <Code>ECSE502</Code>
+    <Name>Algorithms and Data Structures</Name>
+    <Smester>1</Smester>
+    <Prerequisite>none</Prerequisite>
+    <Lecture_Slot>0</Lecture_Slot>
+    <Tutorial_Slot>1</Tutorial_Slot>
+    <Info></Info>
+  </Module>
+  <Module>
+    <Code>EIGA501</Code>
+    <Name>3D Graphics I</Name>
+    <Smester>1</Smester>
+    <Prerequisite>none</Prerequisite>
+    <Lecture_Slot>2</Lecture_Slot>
+    <Tutorial_Slot>3</Tutorial_Slot>
+    <Info></Info>
+  </Module>
+  <Module>
+    <Code>ECSE512</Code>
+    <Name>Object Oriented Design</Name>
+    <Smester>1</Smester>
+    <Prerequisite>core</Prerequisite>
+    <Lecture_Slot>4</Lecture_Slot>
+    <Tutorial_Slot>5</Tutorial_Slot>
+    <Info></Info>
+  </Module>
+  <Module>
+    <Code>ECSE501</Code>
+    <Name>Object Oriented Programming</Name>
+    <Smester>1</Smester>
+    <Prerequisite>core</Prerequisite>
+    <Lecture_Slot>6</Lecture_Slot>
+    <Tutorial_Slot>7</Tutorial_Slot>
+    <Info></Info>
+  </Module>
+  <Module>
+    <Code>ECSE508</Code>
+    <Name>Requirements Eng.</Name>
+    <Smester>1</Smester>
+    <Prerequisite>none</Prerequisite>
+    <Lecture_Slot>8</Lecture_Slot>
+    <Tutorial_Slot>9</Tutorial_Slot>
+    <Info></Info>
+  </Module>
+  <Module>
+    <Code>3SFE599</Code>
+    <Name>Introduction to AI</Name>
+    <Smester>1</Smester>
+    <Prerequisite>none</Prerequisite>
+    <Lecture_Slot>10</Lecture_Slot>
+    <Tutorial_Slot>0</Tutorial_Slot>
+    <Info></Info>
+  </Module>
+  <Module>
+    <Code>ECWM506</Code>
+    <Name>Mobile Computing Processing</Name>
+    <Smester>1</Smester>
+    <Prerequisite>none</Prerequisite>
+    <Lecture_Slot>1</Lecture_Slot>
+    <Tutorial_Slot>2</Tutorial_Slot>
+    <Info></Info>
+  </Module>
+  <Module>
+    <Code>EIMM508</Code>
+    <Name>Image Processing</Name>
+    <Smester>1</Smester>
+    <Prerequisite>none</Prerequisite>
+    <Lecture_Slot>3</Lecture_Slot>
+    <Tutorial_Slot>4</Tutorial_Slot>
+    <Info></Info>
+  </Module>
+  <Module>
+    <Code>ECSE514</Code>
+    <Name>Software Engineering Group Project</Name>
+    <Smester>2</Smester>
+    <Prerequisite>none</Prerequisite>
+    <Lecture_Slot>0</Lecture_Slot>
+    <Tutorial_Slot>1</Tutorial_Slot>
+    <Info></Info>
+  </Module>
+  <Module>
+    <Code>ECSE516</Code>
+    <Name>Software Engineering </Name>
+    <Smester>2</Smester>
+    <Prerequisite>none</Prerequisite>
+    <Lecture_Slot>2</Lecture_Slot>
+    <Tutorial_Slot>3</Tutorial_Slot>
+    <Info></Info>
+  </Module>
+  <Module>
+    <Code>EIMM514</Code>
+    <Name>HCI Design</Name>
+    <Smester>2</Smester>
+    <Prerequisite>none</Prerequisite>
+    <Lecture_Slot>4</Lecture_Slot>
+    <Tutorial_Slot>5</Tutorial_Slot>
+    <Info></Info>
+  </Module>
+  <Module>
+    <Code>EIMM507</Code>
+    <Name>Multimedia Development Tools</Name>
+    <Smester>2</Smester>
+    <Prerequisite>none</Prerequisite>
+    <Lecture_Slot>6</Lecture_Slot>
+    <Tutorial_Slot>7</Tutorial_Slot>
+    <Info></Info>
+  </Module>
+  <Module>
+    <Code>EICG502</Code>
+    <Name>Physics for Game Programming</Name>
+    <Smester>2</Smester>
+    <Prerequisite>EIGA501</Prerequisite>
+    <Lecture_Slot>8</Lecture_Slot>
+    <Tutorial_Slot>9</Tutorial_Slot>
+    <Info></Info>
+  </Module>
+  <Module>
+    <Code>ECWM511</Code>
+    <Name>Mobile Apllication Development</Name>
+    <Smester>2</Smester>
+    <Prerequisite>ECWM506</Prerequisite>
+    <Lecture_Slot>10</Lecture_Slot>
+    <Tutorial_Slot>0</Tutorial_Slot>
+    <Info></Info>
+  </Module>
+  <Module>
+    <Code>ECSE507</Code>
+    <Name>Network Software Development</Name>
+    <Smester>2</Smester>
+    <Prerequisite>3SFE599</Prerequisite>
+    <Lecture_Slot>1</Lecture_Slot>
+    <Tutorial_Slot>2</Tutorial_Slot>
+    <Info></Info>
+  </Module>
+  <Module>
+    <Code>EICG507</Code>
+    <Name>Real Time Graphics</Name>
+    <Smester>1</Smester>
+    <Prerequisite>EIGA501</Prerequisite>
+    <Lecture_Slot>3</Lecture_Slot>
+    <Tutorial_Slot>4</Tutorial_Slot>
+    <Info></Info>
+  </Module>
+</Year>
